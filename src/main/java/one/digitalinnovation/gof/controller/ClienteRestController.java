@@ -1,6 +1,5 @@
 package one.digitalinnovation.gof.controller;
 
-import feign.Response;
 import one.digitalinnovation.gof.model.Cliente;
 import one.digitalinnovation.gof.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
